@@ -1,0 +1,12 @@
+{
+    "header": {
+        "hello": "你好，世界",
+        "welcome": ""
+    },
+    "navbar": {
+        "Home": "主页",
+        "Help": "帮助",
+        "GamblersAndDrunkards":"赌鬼和醉汉",
+        "SpeedIsKey":"兵贵神速"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "tab1": {
+        "tab": "Background",
+        "description": "In the Background section, we will introduce the concepts explored in this simulation starting from a scenario. We will introduce examples from multiple fields, including mathematics, physics, and everyday life. Whether you are a curious learner or someone interested in practical applications, this section will serve as your starting point for understanding the relevant ideas and principles."
+    },
+    "tab2": {
+        "tab": "Simulator",
+        "description": "In the Simulator section, we provide simulation tools for you to conduct experiments by adjusting variables and parameters to observe the outcomes in various situations. You can explore here, trying different methods for practical simulations to deepen your understanding of these concepts."
+    },
+    "tab3": {
+        "tab": "Guide",
+        "description": "In the Guide section, we introduce the basic settings of the simulator and various parameters. You can configure specific parameters for your simulation experiments to achieve the desired results or explore questions. Please read each setting description carefully to make full use of our simulation tools."
+    }
+}

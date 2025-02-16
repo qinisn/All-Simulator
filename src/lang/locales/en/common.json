@@ -1,0 +1,12 @@
+{
+    "header": {
+        "hello": "你好，世界",
+        "welcome": ""
+    },
+    "navbar": {
+        "Home": "Home",
+        "Help": "Help",
+        "GamblersAndDrunkards":"Gamblers And Drunkards",
+        "SpeedIsKey":"Speed Is Key"
+    }
+}

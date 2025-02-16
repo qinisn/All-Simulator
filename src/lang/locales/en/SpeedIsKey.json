@@ -1,0 +1,14 @@
+{
+    "tab1": {
+        "tab": "Background",
+        "description": "In the military field, mobility has always been regarded as a decisive factor in determining victory. Whether it is the cavalry charges in ancient warfare or the tank assaults and air strikes in modern conflicts, mobility often allows combat units to seize strategic initiative. Fast movement not only enables forces to quickly enter the core areas of the battlefield but also facilitates flexible tactical adjustments, better surrounding the enemy or avoiding danger.\n\nNow, let’s consider a simpler scenario: in an open field, both sides engage in a direct confrontation without employing any strategies or tactics. Assuming the two unit types have identical stats in terms of health, attack power, range, and attack speed, does increased movement speed provide any advantage? In a 1v1 situation, it has no impact, as victory would depend solely on which unit attacks first. However, as the number of units increases, the advantage of high movement speed becomes significantly more apparent.\n\nThere are two primary reasons for this: First, units with higher movement speed can form an attack formation more quickly, reducing situations where the vanguard is already engaged while other units are still on their way. Second, after defeating an enemy, fast-moving units can quickly support other parts of the battlefield, creating a snowball effect by concentrating forces to outnumber and overwhelm the opponent."
+    },
+    "tab2": {
+        "tab": "Simulator",
+        "description": ""
+    },
+    "tab3": {
+        "tab": "Guide",
+        "description": "The simulator models the situation described in the background. You can define the attribute values for both sides on the right, with default values being the same except for movement speed. After clicking start, both sides will spawn at random positions on either side and automatically target and attack the nearest enemy. The depth of color represents the remaining health points, while flickering indicates an attack.\nNote: When the number of units is so large that it fills up the battlefront, the battle situation will evolve into a series of 1v1 engagements. In such a case, the side with faster speed will lose the formation advantage."
+    }
+}
