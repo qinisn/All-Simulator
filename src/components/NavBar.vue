@@ -17,6 +17,9 @@
         <li class="nav-item">
             <router-link to="/SpeedIsKey" class="nav-link link-dark">{{$t('common.navbar.SpeedIsKey') }}</router-link>
         </li>
+        <li class="nav-item">
+            <router-link to="/Voting" class="nav-link link-dark">{{$t('common.navbar.Voting') }}</router-link>
+        </li>
 
     </ul>
     </div>

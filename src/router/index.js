@@ -4,8 +4,7 @@ import Home from '../views/Home.vue';
 import Help from '../views/Help.vue'; 
 import GamblersAndDrunkards from '../views/GamblersAndDrunkards.vue'; 
 import SpeedIsKey from '../views/SpeedIsKey.vue'; 
-
-
+import Voting from '../views/Voting.vue';
 
 
 
@@ -14,6 +13,7 @@ const routes = [
   { path: '/help', component: Help, name: 'Help' },
   { path: '/GamblersAndDrunkards', component: GamblersAndDrunkards, name: 'GamblersAndDrunkards' },
   { path: '/SpeedIsKey', component: SpeedIsKey, name: 'SpeedIsKey' },
+  { path: '/Voting', component: Voting, name: 'Voting' },
 ];
 
 const router = createRouter({
